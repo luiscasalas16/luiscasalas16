@@ -82,7 +82,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <br>Azure
     </td>
     <td align="center" width="96">
-        <a href="#"><img src="./images/iis-server.svg" width="48" height="48" alt="iis-server" /></a>
+        <a href="#"><img src="./images/iis-server.svg" width="96" height="48" alt="iis-server" /></a>
         <br>IIS
     </td>
     <td align="center" width="96">
@@ -90,9 +90,28 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <br>MSSQL
     </td>
     <td align="center" width="96">
-        <a href="#"><img src="./images/windows-server.svg" width="48" height="48" alt="windows-server" /></a>
+        <a href="#"><img src="./images/windows-server.svg" width="96" height="48" alt="windows-server" /></a>
         <br>Windows Server
     </td>
+  </tr>
+</table>
+
+### Herramientas
+<table>
+  <tr>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/visual-studio.svg" width="96" height="48" alt="visual-studio" /></a>
+        <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/visual-studio-code.svg" width="48" height="48" alt="visual-studio-code" /></a>
+        <br>Visual Studio Code
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/sql-management.png" width="48" height="48" alt="sql-management" /></a>
+        <br>MSSQL Management Studio
+    </td>
+    sql-management
   </tr>
 </table>
 
