@@ -4,15 +4,44 @@ Soy organizado y entusiasta de la programación. Me gusta estudiar constantement
 
 Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
+
+## Tecnologias
+
+### Frontend
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="./images/html5.svg" width="48" height="48" alt="html5" />
+        <br>
+        HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="./images/css3.svg" width="48" height="48" alt="css3" />
+        <br>
+        CCS3
+    </td>
+    <td align="center" width="96">
+        <img src="./images/javascript.svg" width="48" height="48" alt="javascript" />
+        <br>
+        JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="./images/typescript.svg" width="48" height="48" alt="typescript" />
+        <br>
+        TypeScript
+    </td>
+  </tr>
+</table>
+
 ## Tecnologias
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">
 <img title="html5" height="75" src="images/html5.svg">
-<img title="css3" height="75" src="images/css3.svg">
-<img title="javascript" height="75" src="images/javascript.svg">
-<img title="typescript" height="75" src="images/typescript.svg">
+<img title="" height="75" src="images/css3.svg">
+<img title="" height="75" src="images/javascript.svg">
+<img title="typescript" height="75" src="images/.svg">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
