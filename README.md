@@ -11,24 +11,28 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="./images/html5.svg" width="48" height="48" alt="html5" />
+        <a href="#" onClick="return false;">
+            <img src="./images/html5.svg" width="48" height="48" alt="html5" />
         <br>
         HTML5
     </td>
     <td align="center" width="96">
-        <img src="./images/css3.svg" width="48" height="48" alt="css3" />
+        <a href="#" onClick="return false;">
+            <img src="./images/css3.svg" width="48" height="48" alt="css3" />
         <br>
         CCS3
     </td>
     <td align="center" width="96">
-        <a href="">
+        <a href="#" onClick="return false;">
             <img src="./images/javascript.svg" width="48" height="48" alt="javascript" />
         </a>
         <br>
         JavaScript
     </td>
     <td align="center" width="96">
-        <img src="./images/typescript.svg" width="48" height="48" alt="typescript" />
+        <a href="#" onClick="return false;">
+            <img src="./images/typescript.svg" width="48" height="48" alt="typescript" />
+        </a>
         <br>
         TypeScript
     </td>
