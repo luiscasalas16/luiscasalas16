@@ -52,10 +52,6 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 <table>
   <tr>
     <td align="center" width="96">
-        <a href="#"><img src="./images/azure.svg" width="48" height="48" alt="azure" /></a>
-        <br>Azure
-    </td>
-    <td align="center" width="96">
         <a href="#"><img src="./images/netcore.svg" width="48" height="48" alt="netcore" /></a>
         <br>.Net Core
     </td>
@@ -75,9 +71,27 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <a href="#"><img src="./images/nodejs.svg" width="48" height="48" alt="nodejs" /></a>
         <br>Node.js
     </td>
+  </tr>
+</table>
+
+### Infraestructura
+<table>
+  <tr>
     <td align="center" width="96">
-        <a href="#"><img src="./images/xxx.svg" width="48" height="48" alt="xxx" /></a>
-        <br>xxx
+        <a href="#"><img src="./images/azure.svg" width="48" height="48" alt="azure" /></a>
+        <br>Azure
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/iis-server.svg" width="48" height="48" alt="iis-server" /></a>
+        <br>IIS
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/sql-server.svg" width="48" height="48" alt="sql-server" /></a>
+        <br>MSSQL
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/windows-server.svg" width="48" height="48" alt="windows-server" /></a>
+        <br>windows-server
     </td>
   </tr>
 </table>
