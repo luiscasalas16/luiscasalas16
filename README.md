@@ -82,7 +82,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <br>Azure
     </td>
     <td align="center" width="96">
-        <a href="#"><img src="./images/iis-server.svg" width="48" height="48" alt="iis-server" /></a>
+        <a href="#"><img src="./images/iis-server.png" width="48" height="48" alt="iis-server" /></a>
         <br>IIS
     </td>
     <td align="center" width="96">
@@ -91,7 +91,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
     </td>
     <td align="center" width="96">
         <a href="#"><img src="./images/windows-server.svg" width="48" height="48" alt="windows-server" /></a>
-        <br>windows-server
+        <br>Windows Server
     </td>
   </tr>
 </table>
