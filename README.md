@@ -4,79 +4,97 @@ Soy organizado y entusiasta de la programación. Me gusta estudiar constantement
 
 Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
-
 ## Tecnologias
 
 ### Frontend
 <table>
   <tr>
     <td align="center" width="96">
-        <a href="#" onClick="return false;">
-            <img src="./images/html5.svg" width="48" height="48" alt="html5" />
-        <br>
-        HTML5
+        <a href="#"><img src="./images/html5.svg" width="48" height="48" alt="html5" /></a>
+        <br>HTML5
     </td>
     <td align="center" width="96">
-        <a href="#" onClick="return false;">
-            <img src="./images/css3.svg" width="48" height="48" alt="css3" />
-        <br>
-        CCS3
+        <a href="#"><img src="./images/css3.svg" width="48" height="48" alt="css3" /></a>
+        <br>CCS3
     </td>
     <td align="center" width="96">
-        <a href="#" onClick="return false;">
-            <img src="./images/javascript.svg" width="48" height="48" alt="javascript" />
-        </a>
-        <br>
-        JavaScript
+        <a href="#"><img src="./images/javascript.svg" width="48" height="48" alt="javascript" /></a>
+        <br>JavaScript
     </td>
     <td align="center" width="96">
-        <a href="#" onClick="return false;">
-            <img src="./images/typescript.svg" width="48" height="48" alt="typescript" />
-        </a>
-        <br>
-        TypeScript
+        <a href="#"><img src="./images/typescript.svg" width="48" height="48" alt="typescript" /></a>
+        <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/bootstrap.svg" width="48" height="48" alt="bootstrap" /></a>
+        <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/jquery.svg" width="48" height="48" alt="jquery" /></a>
+        <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/angular.svg" width="48" height="48" alt="angular" /></a>
+        <br>Angular
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/react.svg" width="48" height="48" alt="react" /></a>
+        <br>React
     </td>
   </tr>
 </table>
 
-## Tecnologias
-<table><tr><td valign="top" width="33%">
+### Backend
+<table>
+  <tr>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/azure.svg" width="48" height="48" alt="azure" /></a>
+        <br>Azure
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/netcore.svg" width="48" height="48" alt="netcore" /></a>
+        <br>.Net Core
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/netframework.svg" width="48" height="48" alt="netframework" /></a>
+        <br>.Net Framework
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/csharp.svg" width="48" height="48" alt="csharp" /></a>
+        <br>C#
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/java.svg" width="48" height="48" alt="java" /></a>
+        <br>Java
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/nodejs.svg" width="48" height="48" alt="nodejs" /></a>
+        <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/xxx.svg" width="48" height="48" alt="xxx" /></a>
+        <br>xxx
+    </td>
+  </tr>
+</table>
 
-### Frontend  
-<div align="center">
-<img title="html5" height="75" src="images/html5.svg">
-<img title="" height="75" src="images/css3.svg">
-<img title="" height="75" src="images/javascript.svg">
-<img title="typescript" height="75" src="images/.svg">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-</td></tr></table>
+### DevOps
+<table>
+  <tr>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/git.svg" width="48" height="48" alt="git" /></a>
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/github.svg" width="48" height="48" alt="github" /></a>
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <a href="#"><img src="./images/azure-devops.svg" width="48" height="48" alt="azure-devops" /></a>
+        <br>Azure DevOps
+    </td>
+  </tr>
+</table>
 
 ## Contactos
 <div align="center">
@@ -90,7 +108,6 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
-
 
 ## Estadísticas
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luiscasalas16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
