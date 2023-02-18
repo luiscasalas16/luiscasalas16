@@ -111,7 +111,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <a href="#"><img src="./images/sql-management.png" width="48" height="48" alt="sql-management" /></a>
         <br>MSSQL Management Studio
     </td>
-    sql-management
+    <td align="center" width="96">
+        <a href="#"><img src="./images/eclipse.png" width="48" height="48" alt="eclipse" /></a>
+        <br>Eclipse
+    </td>
   </tr>
 </table>
 
