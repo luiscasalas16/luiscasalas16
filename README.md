@@ -7,112 +7,112 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 ## Tecnologias
 
 ### Frontend
-<table>
+<table style="font-size: 12px;">
   <tr>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/html5.svg" width="48" height="48" alt="html5" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/html5.svg" width="36" height="36" alt="html5" /></a>
         <br>HTML5
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/css3.svg" width="48" height="48" alt="css3" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/css3.svg" width="36" height="36" alt="css3" /></a>
         <br>CCS3
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/sass.svg" width="48" height="48" alt="sass" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/sass.svg" width="36" height="36" alt="sass" /></a>
         <br>Sass
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/javascript.svg" width="48" height="48" alt="javascript" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/javascript.svg" width="36" height="36" alt="javascript" /></a>
         <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/typescript.svg" width="48" height="48" alt="typescript" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/typescript.svg" width="36" height="36" alt="typescript" /></a>
         <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/bootstrap.svg" width="48" height="48" alt="bootstrap" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/bootstrap.svg" width="36" height="36" alt="bootstrap" /></a>
         <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/jquery.svg" width="48" height="48" alt="jquery" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/jquery.svg" width="36" height="36" alt="jquery" /></a>
         <br>jQuery
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/angular.svg" width="48" height="48" alt="angular" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/angular.svg" width="36" height="36" alt="angular" /></a>
         <br>Angular
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/react.svg" width="48" height="48" alt="react" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/react.svg" width="36" height="36" alt="react" /></a>
         <br>React
     </td>
   </tr>
 </table>
 
 ### Backend
-<table>
+<table style="font-size: 12px;">
   <tr>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/netcore.svg" width="48" height="48" alt="netcore" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/netcore.svg" width="36" height="36" alt="netcore" /></a>
         <br>.Net Core
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/netframework.svg" width="48" height="48" alt="netframework" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/netframework.svg" width="36" height="36" alt="netframework" /></a>
         <br>.Net Framework
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/csharp.svg" width="48" height="48" alt="csharp" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/csharp.svg" width="36" height="36" alt="csharp" /></a>
         <br>C#
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/java.svg" width="48" height="48" alt="java" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/java.svg" width="36" height="36" alt="java" /></a>
         <br>Java
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/nodejs.svg" width="48" height="48" alt="nodejs" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/nodejs.svg" width="36" height="36" alt="nodejs" /></a>
         <br>Node.js
     </td>
   </tr>
 </table>
 
 ### Infraestructura
-<table>
+<table style="font-size: 12px;">
   <tr>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/azure.svg" width="48" height="48" alt="azure" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
         <br>Azure
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/iis-server.svg" width="96" height="48" alt="iis-server" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
         <br>IIS
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/sql-server.svg" width="48" height="48" alt="sql-server" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
         <br>MSSQL
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/windows-server.svg" width="96" height="48" alt="windows-server" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
         <br>Windows Server
     </td>
   </tr>
 </table>
 
 ### Herramientas
-<table>
+<table style="font-size: 12px;">
   <tr>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/visual-studio.svg" width="96" height="48" alt="visual-studio" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" /></a>
         <br>Visual Studio
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/visual-studio-code.svg" width="48" height="48" alt="visual-studio-code" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" /></a>
         <br>Visual Studio Code
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/sql-management.png" width="48" height="48" alt="sql-management" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
         <br>MSSQL Management Studio
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/eclipse.svg" width="48" height="48" alt="eclipse" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/eclipse.svg" width="36" height="36" alt="eclipse" /></a>
         <br>Eclipse
     </td>
   </tr>
@@ -121,16 +121,16 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 ### DevOps
 <table>
   <tr>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/git.svg" width="48" height="48" alt="git" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/git.svg" width="36" height="36" alt="git" /></a>
         <br>Git
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/github.svg" width="48" height="48" alt="github" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/github.svg" width="36" height="36" alt="github" /></a>
         <br>GitHub
     </td>
-    <td align="center" width="96">
-        <a href="#"><img src="./images/azure-devops.svg" width="48" height="48" alt="azure-devops" /></a>
+    <td align="center" width="36">
+        <a href="#"><img src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
         <br>Azure DevOps
     </td>
   </tr>
