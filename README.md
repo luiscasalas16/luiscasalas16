@@ -21,7 +21,9 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         CCS3
     </td>
     <td align="center" width="96">
-        <img src="./images/javascript.svg" width="48" height="48" alt="javascript" />
+        <a href="#">
+            <img src="./images/javascript.svg" width="48" height="48" alt="javascript" />
+        </a>
         <br>
         JavaScript
     </td>
