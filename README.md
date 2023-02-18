@@ -59,7 +59,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <div align="center">  
+        <div align="center">
           <h3>DevOps</h3>
             <a href="#"><img title="Git" src="./images/git.svg" width="36" height="36" alt="git" /></a>
             <a href="#"><img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" /></a>
@@ -67,7 +67,15 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           </div>
       </td>
       <td valign="top" width="50%">
-      <div align="center">  
+      <div align="center">
+          <h3>Aprendiendo</h3>
+            <a href="#"><img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" /></a>
+            <a href="#"><img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" /></a>
+            <a href="#"><img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" /></a>
+            <a href="#"><img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" /></a>
+            <a href="#"><img title="Dart" src="./images/dart.svg" width="36" height="36" alt="dart" /></a>
+            <a href="#"><img title="Flutter" src="./images/flutter.svg" width="36" height="36" alt="flutter" /></a>
+          </div>
       </div>
       </td>
     </tr>
