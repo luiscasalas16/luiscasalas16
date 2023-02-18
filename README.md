@@ -18,6 +18,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <br>CCS3
     </td>
     <td align="center" width="96">
+        <a href="#"><img src="./images/sass.svg" width="48" height="48" alt="sass" /></a>
+        <br>Sass
+    </td>
+    <td align="center" width="96">
         <a href="#"><img src="./images/javascript.svg" width="48" height="48" alt="javascript" /></a>
         <br>JavaScript
     </td>
