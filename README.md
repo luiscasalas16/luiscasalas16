@@ -1,4 +1,4 @@
-<h2 align="center">👋 ¡Hola! Mi nombre es Luis Carlos.</h2>
+<h2 align="center">👋 ¡Hola! Mi nombre es Luis Carlos</h2>
 
 Soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
 
@@ -7,7 +7,7 @@ Soy organizado y entusiasta de la programación. Me gusta estudiar constantement
 Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
 
-## Tecnologias
+## Tecnologías
 
 <div align="center">
   <table>
