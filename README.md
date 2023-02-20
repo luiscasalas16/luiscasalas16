@@ -41,10 +41,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
       <td valign="top" width="50%">
         <div align="center">
           <h3>Infraestructura</h3>
-          <a href="#"><img title="Azure" src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
-          <a href="#"><img title="IIS" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
-          <a href="#"><img title="MSSQL" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
+          <a href="#"><img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
           <a href="#"><img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
+          <a href="#"><img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
+          <a href="#"><img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
           <a href="#"><img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" /></a>
         </div>
       </td>
@@ -53,7 +53,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <h3>Herramientas</h3>
           <a href="#"><img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" /></a>
           <a href="#"><img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" /></a>
-          <a href="#"><img title="MSSQL Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
+          <a href="#"><img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
           <a href="#"><img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" /></a>
         </div>
       </td>
@@ -64,7 +64,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <h3>DevOps</h3>
             <a href="#"><img title="Git" src="./images/git.svg" width="36" height="36" alt="git" /></a>
             <a href="#"><img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" /></a>
-            <a href="#"><img title="DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
+            <a href="#"><img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
           </div>
       </td>
       <td valign="top" width="50%">
