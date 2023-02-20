@@ -45,6 +45,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <a href="#"><img title="IIS" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
           <a href="#"><img title="MSSQL" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
           <a href="#"><img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
+          <a href="#"><img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" /></a>
         </div>
       </td>
       <td valign="top" width="50%">
