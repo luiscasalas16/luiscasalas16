@@ -42,6 +42,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <h3>Data</h3>
           <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="40" height="40" alt="Microsoft SQL Server" />
           <img title="Oracle Database" src="./images/oracle.svg" width="40" height="40" alt="Oracle Database" />
+          <img title="Azure SQL Database" src="./images/azure-sql-database.svg" width="40" height="40" alt="Azure SQL Database" />
           <img title="Power BI" src="./images/powerbi.svg" width="40" height="40" alt="Power BI" />
         </div>
       </td>
@@ -63,8 +64,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <h3>Development</h3>
           <img title="Visual Studio" src="./images/visual-studio.svg" width="40" height="40" alt="Visual Studio" />
           <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="40" height="40" alt="Visual Studio Code" />
-          <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="Microsoft SQL Server Management Studio" />
           <img title="Eclipse" src="./images/eclipse.svg" width="40" height="40" alt="Eclipse" />
+          <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="Microsoft SQL Server Management Studio" />
+          <img title="SQL Developer" src="./images/sql-developer.svg" width="40" height="40" alt="SQL Developer" />
+          <img title="DBeaver " src="./images/dbeaver.svg" width="40" height="40" alt="DBeaver" />
         </div>
       </td>
       <td valign="top" width="50%">
@@ -73,7 +76,7 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <img title="Git" src="./images/git.svg" width="40" height="40" alt="Git" />
           <img title="GitHub" src="./images/github.svg" width="40" height="40" alt="GitHub" />
           <img title="Azure DevOps" src="./images/azure-devops.svg" width="40" height="40" alt="Azure DevOps" />
-          <img title="Sonar" src="./images/sonar.png" width="36" height="36" alt="Sonar" />
+          <img title="Sonar" src="./images/sonar.png" width="40" height="40" alt="Sonar" />
         </div>
       </td>
     </tr>
