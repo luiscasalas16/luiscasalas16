@@ -1,6 +1,6 @@
 <h2 align="center">👋 ¡Hola! Mi nombre es Luis Carlos</h2>
 
-Soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
+Soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 16 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
 
 Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aprender y aportar mis conocimientos y experiencias a mis compañeros de trabajo.
 
@@ -15,31 +15,31 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>Frontend</h3>
           <a href="#">
-            <img title="HTML5" src="./images/html5.svg" width="36" height="36" alt="html5" />
+            <img title="HTML5" src="./images/html5.svg" width="40" height="40" alt="html5" />
           </a>
           <a href="#">
-            <img title="CCS3" src="./images/css3.svg" width="36" height="36" alt="css3" />
+            <img title="CCS3" src="./images/css3.svg" width="40" height="40" alt="css3" />
           </a>
           <a href="#">
-            <img title="Sass" src="./images/sass.svg" width="36" height="36" alt="sass" />
+            <img title="Sass" src="./images/sass.svg" width="40" height="40" alt="sass" />
           </a>
           <a href="#">
-            <img title="JavaScript" src="./images/javascript.svg" width="36" height="36" alt="javascript" />
+            <img title="JavaScript" src="./images/javascript.svg" width="40" height="40" alt="javascript" />
           </a>
           <a href="#">
-            <img title="TypeScript" src="./images/typescript.svg" width="36" height="36" alt="typescript" />
+            <img title="TypeScript" src="./images/typescript.svg" width="40" height="40" alt="typescript" />
           </a>
           <a href="#">
-            <img title="Bootstrap" src="./images/bootstrap.svg" width="36" height="36" alt="bootstrap" />
+            <img title="Bootstrap" src="./images/bootstrap.svg" width="40" height="40" alt="bootstrap" />
           </a>
           <a href="#">
-            <img title="jQuery" src="./images/jquery.svg" width="36" height="36" alt="jquery" />
+            <img title="jQuery" src="./images/jquery.svg" width="40" height="40" alt="jquery" />
           </a>
           <a href="#">
-            <img title="Angular" src="./images/angular.svg" width="36" height="36" alt="angular" />
+            <img title="Angular" src="./images/angular.svg" width="40" height="40" alt="angular" />
           </a>
           <a href="#">
-            <img title="React" src="./images/react.svg" width="36" height="36" alt="react" />
+            <img title="React" src="./images/react.svg" width="40" height="40" alt="react" />
           </a>
         </div>
       </td>
@@ -47,19 +47,19 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>Backend</h3>
           <a href="#">
-            <img title=".Net Core" src="./images/netcore.svg" width="36" height="36" alt="netcore" />
+            <img title=".Net Core" src="./images/netcore.svg" width="40" height="40" alt="netcore" />
           </a>
           <a href="#">
-            <img title=".Net Framework" src="./images/netframework.svg" width="36" height="36" alt="netframework" />
+            <img title=".Net Framework" src="./images/netframework.svg" width="45" height="45" alt="netframework" />
           </a>
           <a href="#">
-            <img title="C#" src="./images/csharp.svg" width="36" height="36" alt="csharp" />
+            <img title="C#" src="./images/csharp.svg" width="40" height="40" alt="csharp" />
           </a>
           <a href="#">
-            <img title="Java" src="./images/java.svg" width="36" height="36" alt="java" />
+            <img title="Java" src="./images/java.svg" width="40" height="40" alt="java" />
           </a>
           <a href="#">
-            <img title="Node.js" src="./images/nodejs.svg" width="36" height="36" alt="nodejs" />
+            <img title="Node.js" src="./images/nodejs.svg" width="40" height="40" alt="nodejs" />
           </a>
         </div>
       </td>
@@ -69,10 +69,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>Data</h3>
           <a href="#">
-            <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" />
+            <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="40" height="40" alt="sql-server" />
           </a>
           <a href="#">
-            <img title="Oracle Database" src="./images/oracle.svg" width="36" height="36" alt="oracle-database" />
+            <img title="Oracle Database" src="./images/oracle.svg" width="40" height="40" alt="oracle-database" />
           </a>
         </div>
       </td>
@@ -80,22 +80,22 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>Infrastructure</h3>
           <a href="#">
-            <img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" />
+            <img title="Windows" src="./images/windows.svg" width="40" height="40" alt="windows" />
           </a>
           <a href="#">
-            <img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" />
+            <img title="Windows Server" src="./images/windows-server.svg" width="40" height="40" alt="windows-server" />
           </a>
           <a href="#">
-            <img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" />
+            <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="azure" />
           </a>
           <a href="#">
-            <img title="Microsoft IIS" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" />
+            <img title="Microsoft IIS" src="./images/iis-server.svg" width="40" height="40" alt="iis-server" />
           </a>
           <a href="#">
-            <img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" />
+            <img title="Docker" src="./images/docker.svg" width="40" height="40" alt="docker" />
           </a>
           <a href="#">
-            <img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" />
+            <img title="Kubernetes" src="./images/kubernetes.svg" width="40" height="40" alt="kubernetes" />
           </a>
         </div>
       </td>
@@ -105,19 +105,19 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>Development Tools</h3>
           <a href="#">
-            <img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" />
+            <img title="Visual Studio" src="./images/visual-studio.svg" width="40" height="40" alt="visual-studio" />
           </a>
           <a href="#">
-            <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" />
+            <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="40" height="40" alt="visual-studio-code" />
           </a>
           <a href="#">
-            <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" />
+            <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="sql-management" />
           </a>
           <a href="#">
-            <img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" />
+            <img title="Eclipse" src="./images/eclipse.svg" width="40" height="40" alt="eclipse" />
           </a>
           <a href="#">
-            <img title="Sonar" src="./images/sonar.svg" width="36" height="36" alt="sonar" />
+            <img title="Sonar" src="./images/sonar.png" width="40" height="40" alt="sonar" />
           </a>
         </div>
       </td>
@@ -125,13 +125,13 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
         <div align="center">
           <h3>DevOps Tools</h3>
           <a href="#">
-            <img title="Git" src="./images/git.svg" width="36" height="36" alt="git" />
+            <img title="Git" src="./images/git.svg" width="40" height="40" alt="git" />
           </a>
           <a href="#">
-            <img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" />
+            <img title="GitHub" src="./images/github.svg" width="40" height="40" alt="github" />
           </a>
           <a href="#">
-            <img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" />
+            <img title="Azure DevOps" src="./images/azure-devops.svg" width="40" height="40" alt="azure-devops" />
           </a>
         </div>
       </td>
