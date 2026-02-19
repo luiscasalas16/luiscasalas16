@@ -6,7 +6,6 @@ Soy organizado y entusiasta de la programación. Me gusta estudiar constantement
 
 Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
-
 ## Tecnologías
 
 <div align="center">
@@ -68,27 +67,43 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
     <tr>
       <td valign="top" width="50%">
         <div align="center">
-          <h3>Infraestructura</h3>
-          <a href="#">
-            <img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" />
-          </a>
-          <a href="#">
-            <img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" />
-          </a>
-          <a href="#">
-            <img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" />
-          </a>
+          <h3>Data</h3>
           <a href="#">
             <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" />
           </a>
           <a href="#">
-            <img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" />
+            <img title="Oracle Database" src="./images/oracle.svg" width="36" height="36" alt="oracle-database" />
           </a>
         </div>
       </td>
       <td valign="top" width="50%">
         <div align="center">
-          <h3>Herramientas</h3>
+          <h3>Infrastructure</h3>
+          <a href="#">
+            <img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" />
+          </a>
+          <a href="#">
+            <img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" />
+          </a>
+          <a href="#">
+            <img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" />
+          </a>
+          <a href="#">
+            <img title="Microsoft IIS" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" />
+          </a>
+          <a href="#">
+            <img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" />
+          </a>
+          <a href="#">
+            <img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <div align="center">
+          <h3>Development Tools</h3>
           <a href="#">
             <img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" />
           </a>
@@ -101,13 +116,14 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           <a href="#">
             <img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" />
           </a>
+          <a href="#">
+            <img title="Sonar" src="./images/sonar.svg" width="36" height="36" alt="sonar" />
+          </a>
         </div>
       </td>
-    </tr>
-    <tr>
       <td valign="top" width="50%">
         <div align="center">
-          <h3>DevOps</h3>
+          <h3>DevOps Tools</h3>
           <a href="#">
             <img title="Git" src="./images/git.svg" width="36" height="36" alt="git" />
           </a>
@@ -119,33 +135,9 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
           </a>
         </div>
       </td>
-      <td valign="top" width="50%">
-        <div align="center">
-          <h3>Aprendiendo</h3>
-          <a href="#">
-            <img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" />
-          </a>
-          <a href="#">
-            <img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" />
-          </a>
-          <a href="#">
-            <img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" />
-          </a>
-          <a href="#">
-            <img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" />
-          </a>
-          <a href="#">
-            <img title="Dart" src="./images/dart.svg" width="36" height="36" alt="dart" />
-          </a>
-          <a href="#">
-            <img title="Flutter" src="./images/flutter.svg" width="36" height="36" alt="flutter" />
-          </a>
-        </div>
-      </td>
     </tr>
   </table>
 </div>
-
 
 ## Contactos
 
@@ -161,11 +153,10 @@ Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empres
 </a>
 </div>
 
-
 ## Estadísticas
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luiscasalas16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luiscasalas16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=luiscasalas16&&style=flat-square" align="center" />
-</div>  
+</div>
